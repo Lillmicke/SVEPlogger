@@ -1,5 +1,5 @@
 # SVEPlogger
 
-Senaste version: **1.1.7**
+Senaste version: **1.1.8**
 
 Ladda ned SVEPlogger.exe frÃ¥n den senaste releasen.
